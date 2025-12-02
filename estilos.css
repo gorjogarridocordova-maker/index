@@ -1,5 +1,5 @@
 body {
-  background-image: url('contenido/fondo2.jpg');
+background-image: url('../contenido/fondo2.jpg');
   background-size: cover;
   font-family: Arial;
   color: white;
@@ -75,4 +75,5 @@ input[type="submit"] {
 input[type="submit"]:hover {
   background-color: #0099cc;
 }
+
 
