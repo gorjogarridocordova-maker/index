@@ -1,5 +1,5 @@
 body {
-  background-image: url('Contenido/fondo2.jpg');
+  background-image: url('contenido/fondo2.jpg');
   background-size: cover;
   font-family: Arial;
   color: white;
@@ -7,27 +7,27 @@ body {
 }
 
 
-/* Contenedor para que el contenido se vea claro */
+/* contenedor para que el contenido se vea claro */
 div, section {
   background-color: rgba(0, 0, 0, 0.6); /* fondo semitransparente */
   padding: 20px;
   border-radius: 10px;
   margin-bottom: 20px;
 }
-/* Títulos */
+/* títulos */
 h1, h2 {
   color: #0d83b9;
   margin-bottom: 10px;
 }
 
-/* Párrafos */
+/* párrafos */
 p {
   font-size: 16px;
   line-height: 1.6;
   margin-bottom: 20px;
 }
 
-/* Listas */
+/* listas */
 ul, ol {
   margin-left: 20px;
   margin-bottom: 20px;
@@ -39,7 +39,7 @@ a {
   text-decoration: underline;
 }
 
-/* Imágenes */
+/* imagenes */
 img {
   max-width: 100%;
   height: auto;
@@ -48,7 +48,7 @@ img {
   border-radius: 8px;
 }
 
-/* Formularios */
+/* formularios */
 form {
   background-color: rgba(255, 255, 255, 0.1);
   padding: 20px;
@@ -75,3 +75,4 @@ input[type="submit"] {
 input[type="submit"]:hover {
   background-color: #0099cc;
 }
+
